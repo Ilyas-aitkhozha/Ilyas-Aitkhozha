@@ -23,4 +23,6 @@ I’m a first-year student at Kazakh-British Technical University, passionate ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40" />
 </p>
 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ilyas-aitkhozha-91b364361)
+
 ** I’m currently building:** `Trackzy` — a modern ticketing system using FastAPI.
