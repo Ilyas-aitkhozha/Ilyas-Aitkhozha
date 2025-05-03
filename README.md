@@ -1,37 +1,19 @@
 <p align="center">
-  <pre>
-┌───────────────────────────┐
-│        Ilyas Aitkhozha   │
-└───────────────────────────┘
-  </pre>
-  <strong>Freshman at KBTU • Python & SQL Enthusiast</strong>
+  <a href="https://github.com/ilyas-aitkhozha">
+    <img src="https://raw.githubusercontent.com/ilyas-aitkhozha/ilyas-aitkhozha/main/banner.svg" alt="Ilyas Aitkhozha" />
+  </a>
 </p>
 
----
+# Ilyas Aitkhozha  
+**🎓 Freshman at KBTU • Python & SQL Enthusiast**
 
-### 🧑‍🎓 About Me
-Currently a first-year student at Kazakh-British Technical University, building a strong foundation in software development and data management.
-
----
-
-### 🛠 Core Expertise
-
-| Area        | Proficiency                |
-| ----------- | -------------------------- |
-| **Programming** | Python: advanced scripting, OOP, modules |
-| **Databases**   | SQL: schema design, querying, optimization |
+I’m a first-year student at Kazakh-British Technical University, passionate about writing clean Python code and designing efficient SQL databases. I build projects from the ground up, focusing on readability, maintainability, and data performance.
 
 ---
 
-### 📚 Academic Focus
-• Coursework: Data Structures · Algorithms · Database Systems  
-• Research interests: System Dynamics · Public-Private Partnerships  
+## 🛠 Languages & Tools
 
----
-
-### 📫 Connect with Me
-✉️ ilyas@example.com  
-LinkedIn ›› [linkedin.com/in/ilyas_ait]([https://linkedin.com/in/ilyas_ait](https://www.linkedin.com/in/ilyas-aitkhozha-91b364361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-GitHub ›› [github.com/ilyas-ait](https://github.com/ilyas-ait)
-
-<sub>Minimalistic, monochrome, content-first.</sub>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" />
+</p>
