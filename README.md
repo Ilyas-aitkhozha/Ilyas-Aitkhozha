@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <pre>
+┌───────────────────────────┐
+│        Ilyas Aitkhozha   │
+└───────────────────────────┘
+  </pre>
+  <strong>Freshman at KBTU • Python & SQL Enthusiast</strong>
+</p>
 
-<!--
-**Ilyas-aitkhozha/Ilyas-Aitkhozha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍🎓 About Me
+Currently a first-year student at Kazakh-British Technical University, building a strong foundation in software development and data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Core Expertise
+
+| Area        | Proficiency                |
+| ----------- | -------------------------- |
+| **Programming** | Python: advanced scripting, OOP, modules |
+| **Databases**   | SQL: schema design, querying, optimization |
+
+---
+
+### 📚 Academic Focus
+• Coursework: Data Structures · Algorithms · Database Systems  
+• Research interests: System Dynamics · Public-Private Partnerships  
+
+---
+
+### 📫 Connect with Me
+✉️ ilyas@example.com  
+LinkedIn ›› [linkedin.com/in/ilyas_ait](https://linkedin.com/in/ilyas_ait)  
+GitHub ›› [github.com/ilyas-ait](https://github.com/ilyas-ait)
+
+<sub>Minimalistic, monochrome, content-first.</sub>
