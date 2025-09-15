@@ -7,7 +7,7 @@
 # Ilyas Aitkhozha  
 **🎓 Freshman at KBTU • Python & SQL Enthusiast**
 
-I’m a first-year student at Kazakh-British Technical University, passionate about writing clean Python code and designing efficient SQL databases. I build projects from the ground up, focusing on readability, maintainability, and data performance.
+I’m a second-year student at Kazakh-British Technical University, passionate about writing clean Python code and designing efficient SQL databases. I build projects from the ground up, focusing on readability, maintainability, and data performance.
 
 ---
 
