@@ -24,5 +24,3 @@ I’m a second-year student at Kazakh-British Technical University, passionate a
 </p>
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ilyas-aitkhozha-91b364361)
-
-** I’m currently building:** `Trackzy` — a modern ticketing system using FastAPI.
